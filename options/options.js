@@ -1,10 +1,11 @@
 export const globalOptions = {
-  name: "ravinder00123-dev-130472",
-  url: "https://ravinder00123-dev-130472.botics.co",
-  api: "https://ravinder00123-dev-130472.botics.co/api/v1",
-  screenOptions: {
-    headerShown: false
-  }
+  "name": "ravinder00123-dev-130472",
+  "url": "https://ravinder00123-dev-130472.botics.co",
+  "api": "https://ravinder00123-dev-130472.botics.co/api/v1",
+  "screenOptions": {
+    "headerShown": false
+  },
+  "initialRoute": "welcome"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
